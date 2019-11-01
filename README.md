@@ -1,2 +1,2 @@
-# gitfolio
-This repository contains files for my Github Portfolio
+# Gitfolio
+This repository contains files for my Github Portfolio.
